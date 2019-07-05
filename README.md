@@ -20,22 +20,10 @@
 # 国外手机号、短信验证码平台
 - http://hs3x.com/    Receive SMS Online For Free - Free Virtual Numbers，-美国,英国,奥地利,瑞典,比利时
 - http://receivefreesms.com/    Receive FREE SMS online，美国,英国,挪威,瑞典,荷兰,澳大利亚,匈牙利,立陶宛,香港等
-
-http://receivefreesms.net/
-
-　　Receive-SMS-Now - 美国,加拿大,西班牙
-
-http://receiveonlinesms.biz/
-
-　　Receive Online SMS - 美国,瑞典,挪威,西班牙,英国
-
-http://receiveonlinesms.com/
-
-　　Receive SMS Online - 国外免费临时手机号
-
-http://receive-sms-online.com/
-
-　　Receive SMS Online - 俄国,英国,乌克兰
+- http://receivefreesms.net/　　Receive-SMS-Now - 美国,加拿大,西班牙
+- http://receiveonlinesms.biz/　　Receive Online SMS - 美国,瑞典,挪威,西班牙,英国
+- http://receiveonlinesms.com/　Receive SMS Online - 国外免费临时手机号
+- http://receive-sms-online.com/　　Receive SMS Online - 俄国,英国,乌克兰
 
 http://receivesmsonline.in/
 
